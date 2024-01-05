@@ -7,6 +7,8 @@
  
 */
 
-
-
-console.log("hello");
+const myObj = {
+    players: ['Thiago Silva', 'Ben Chilwell', 'Reece James', 'Cole Palmer', 'Christopher Nkunku', 'Mykhailo Mudryk', ' Conor Gallagher'],
+    goalsThisMonth: [0, 1, 2, 3, 4, 5, 6],
+    favoriteOpponent: ['Liverpool', 'Man City', 'Arsenal', 'Tottenham', 'Man Utd', 'Newcastle', 'West Ham']
+};
